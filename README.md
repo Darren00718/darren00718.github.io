@@ -26,6 +26,7 @@ Features
 * Responsive (mobile-ready) design based on [Bootstrap][].
 
 [Bootstrap]: http://getbootstrap.com/
+! [Anurag's GitHub stats] (https: //github-readme-stats.vercel.app/api?username=Darren00718)
 
 
 Setup
